@@ -1,4 +1,4 @@
-# ai-startup-forecast-platform
+# Ai-startup-forecast-platform
 # 💼 AI-Powered Startup Analytics and Investment Forecast Platform
 
 🚀 This interactive Streamlit dashboard visualizes and forecasts Indian startup funding trends.  
