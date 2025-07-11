@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+st_aggrid
+prophet==1.1.5      # <– key line
+cmdstanpy==1.0.4    # prophet dependency
